@@ -1,0 +1,6 @@
+name: DataScience4Wind
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+prefix: C:\Users\jufen\AppData\Local\miniconda3\envs\DataScience4Wind
